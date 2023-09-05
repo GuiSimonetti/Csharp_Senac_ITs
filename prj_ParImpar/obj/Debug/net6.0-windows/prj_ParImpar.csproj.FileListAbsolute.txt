@@ -1,0 +1,34 @@
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.exe
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.deps.json
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.runtimeconfig.json
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.dll
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.pdb
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.csproj.AssemblyReference.cache
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.frm_ParImpar.resources
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.csproj.GenerateResource.cache
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.AssemblyInfoInputs.cache
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.AssemblyInfo.cs
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.csproj.CoreCompileInputs.cache
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.dll
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\refint\prj_ParImpar.dll
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.pdb
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.genruntimeconfig.cache
+E:\SENAC\TecInform-2023\T-239\UC-12\Projetos\Dia 04-09\prj_ParImpar\obj\Debug\net6.0-windows\ref\prj_ParImpar.dll
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.exe
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.deps.json
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.runtimeconfig.json
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.dll
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\bin\Debug\net6.0-windows\prj_ParImpar.pdb
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.csproj.AssemblyReference.cache
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.frm_ParImpar.resources
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.csproj.GenerateResource.cache
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.AssemblyInfoInputs.cache
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.AssemblyInfo.cs
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.csproj.CoreCompileInputs.cache
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.dll
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\refint\prj_ParImpar.dll
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.pdb
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\prj_ParImpar.genruntimeconfig.cache
+S:\# Turma 239-2022\Guilherme\Projetos\Dia 05-09\prj_ParImpar\obj\Debug\net6.0-windows\ref\prj_ParImpar.dll
